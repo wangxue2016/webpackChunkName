@@ -1,0 +1,2 @@
+# webpackChunkName
+vue动态加载路由addRouter时如果想对webpackChunkName进行循环动态处理
